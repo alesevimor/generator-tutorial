@@ -1,5 +1,6 @@
-# generator-tutorial [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
-> Generador de prueba
+# generator-tutorial
+
+> Probando generadores con YEOMAN
 
 ## Installation
 
