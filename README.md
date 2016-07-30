@@ -18,7 +18,7 @@ yo tutorial
 
 ## Getting To Know Yeoman
 
-(http://yeoman.io/).
+(http://yeoman.io/)
 
 ## License
 
